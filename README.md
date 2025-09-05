@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Madhavan</h1>
-<h3 align="center">A passionate Frontend and Nextjs developer from India</h3>
+<h3 align="center">A passionate Frontend and Nextjs developer</h3>
 <img align="right" src="https://i.giphy.com/RbDKaczqWovIugyJmW.webp" alt="coding" >
 
 - 🌱 I’m currently learning **NextJS**
